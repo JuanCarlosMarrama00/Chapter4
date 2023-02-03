@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cac665ce-811e-45a6-99ab-8795dd15ddc6" name="Changes" comment="">
+    <list default="true" id="cac665ce-811e-45a6-99ab-8795dd15ddc6" name="Changes" comment="Primer Commit, subo el proyecto por primera vez">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -51,6 +51,14 @@
       <option name="presentableId" value="Default" />
       <updated>1675423286840</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primer Commit, subo el proyecto por primera vez">
+      <created>1675424451490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675424451491</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer Commit, subo el proyecto por primera vez" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer Commit, subo el proyecto por primera vez" />
   </component>
 </project>
