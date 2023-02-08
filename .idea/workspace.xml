@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cac665ce-811e-45a6-99ab-8795dd15ddc6" name="Changes" comment="Commit local">
+    <list default="true" id="cac665ce-811e-45a6-99ab-8795dd15ddc6" name="Changes" comment="Commit con comentario">
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HolaMundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HolaMundo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/INFORMATICA/alu10198054/IdeaProjects/Programacion orientada a objetos",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
@@ -65,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675424768483</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit con comentario">
+      <created>1675425198110</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675425198110</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +89,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer Commit, subo el proyecto por primera vez" />
     <MESSAGE value="Commit local" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit local" />
+    <MESSAGE value="Commit con comentario" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit con comentario" />
   </component>
 </project>
