@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cac665ce-811e-45a6-99ab-8795dd15ddc6" name="Changes" comment="Commit con comentario">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="cac665ce-811e-45a6-99ab-8795dd15ddc6" name="Changes" comment="Commit ultimo con clase1 añadida">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/INFORMATICA/alu10198054/IdeaProjects/Programacion orientada a objetos",
+    "last_opened_file_path": "/home/INFORMATICA/alu10198054/IdeaProjects/HOLAMUNDO",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
@@ -72,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675425198110</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit ultimo">
+      <created>1675853218003</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675853218003</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit ultimo con clase1 añadida">
+      <created>1675853341067</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675853341067</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,7 +93,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Refactorizar" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -90,6 +115,8 @@
     <MESSAGE value="Primer Commit, subo el proyecto por primera vez" />
     <MESSAGE value="Commit local" />
     <MESSAGE value="Commit con comentario" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit con comentario" />
+    <MESSAGE value="Commit ultimo" />
+    <MESSAGE value="Commit ultimo con clase1 añadida" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit ultimo con clase1 añadida" />
   </component>
 </project>
